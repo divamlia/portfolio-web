@@ -290,11 +290,11 @@
                 <div class="space-y-4">
                     @php
                     $organizations = [
-                        ['role' => 'Anggota Divisi Publikasi & Host Siniar PENS', 'period' => '2025 – 2026', 'desc' => 'Mengelola publikasi podcast dan menjadi host'],
-                        ['role' => 'Koordinator Divisi Litbang Yuk Muslimah Sidoarjo', 'period' => '2022 - 2023', 'desc' => 'Mengembangkan dan merealisasikan program kerja organisasi'],
-                        ['role' => 'Sekretaris Bidang Perkaderan IPM SMKM1TA', 'period' => '2021 - 2023', 'desc' => 'Mengelola administrasi dan rekrutmen anggota'],
-                        ['role' => 'Komandan Satuan Paskibra SMKM1TA', 'period' => '2021 - 2022', 'desc' => 'Memimpin dan melatih kedisiplinan anggota'],
-                        ['role' => 'Wakil Ketua Paguyuban Duta SMK Sidoarjo', 'period' => '2021 - 2022', 'desc' => 'Mendukung program kerja dan menjadi public speaker'],
+                        ['role' => 'Anggota Divisi Publikasi & Host Siniar PENS', 'period' => '2025–2026', 'desc' => 'Mengelola publikasi podcast dan menjadi host'],
+                        ['role' => 'Koordinator Divisi Litbang Yuk Muslimah Sidoarjo', 'period' => '2022–2023', 'desc' => 'Mengembangkan dan merealisasikan program kerja organisasi'],
+                        ['role' => 'Sekretaris Bidang Perkaderan IPM SMKM1TA', 'period' => '2021–2023', 'desc' => 'Mengelola administrasi dan rekrutmen anggota'],
+                        ['role' => 'Komandan Satuan Paskibra SMKM1TA', 'period' => '2021–2022', 'desc' => 'Memimpin dan melatih kedisiplinan anggota'],
+                        ['role' => 'Wakil Ketua Paguyuban Duta SMK Sidoarjo', 'period' => '2021–2022', 'desc' => 'Mendukung program kerja dan menjadi public speaker'],
                     ];
                     @endphp
 
